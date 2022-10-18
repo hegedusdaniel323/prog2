@@ -1,0 +1,2 @@
+H;trex;szarazfolt;R
+D;Stegosaurus;N;20.0;15500
